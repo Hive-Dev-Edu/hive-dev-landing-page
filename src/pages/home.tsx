@@ -16,7 +16,7 @@ import SolutionsSection from "../components/landing/SolutionsSection";
 import TeamSection from "../components/landing/TeamSection";
 
 
-const Index = () => {
+const Home = () => {
   return (
     <div className="min-h-screen bg-background">
       <Navbar />
@@ -41,4 +41,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default Home;
