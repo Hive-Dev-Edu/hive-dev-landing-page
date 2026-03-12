@@ -28,7 +28,7 @@ const CTASection = () => {
           </a>
 
           <p className="text-sm text-muted-foreground mt-6 italic">
-            Responderemos com caminhos e possibilidades — não com empurrão comercial.
+            Responderemos com caminhos e possibilidades.
           </p>
         </motion.div>
       </div>

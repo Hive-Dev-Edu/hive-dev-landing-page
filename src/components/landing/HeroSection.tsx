@@ -164,7 +164,7 @@ const HeroSection = () => {
 
                 <ImagePlaceholder
                   label="Composição visual da plataforma Hive.Dev"
-                  sublabel="Interface + contexto educacional"
+                  sublabel="Interfaces"
                   aspectRatio="aspect-[4/3]"
                   className="rounded-none border-0"
                   icon={<Monitor size={22} className="text-orange-700" />}

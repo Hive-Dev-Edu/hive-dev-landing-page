@@ -47,7 +47,7 @@ const TeamSection = () => {
           >
             <ImagePlaceholder
               label="Foto principal da equipe Hive.Dev"
-              sublabel="Ambiente aberto, luz natural, equipe reunida"
+              sublabel="equipe reunida"
               aspectRatio="aspect-[21/9]"
               icon={<Camera size={24} className="text-honey-dark" />}
             />
